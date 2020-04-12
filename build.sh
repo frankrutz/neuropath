@@ -15,4 +15,5 @@ do
 	cp neuropath.css   ./website/
 	cp w3mobile.css    ./website/
 	cp neuropath.png   ./website/
+	cp logo_uzh.svg  ./website/
 done
