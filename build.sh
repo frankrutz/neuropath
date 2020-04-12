@@ -12,8 +12,8 @@ do
 	cat top.html    >  ./website/${TARGET}
 	cat ${SOURCE}   >> ./website/${TARGET}
         cat bottom.html >> ./website/${TARGET}
-	cp neuropath.css   ./website/
-	cp w3mobile.css    ./website/
-	cp neuropath.png   ./website/
-	cp logo_uzh.svg  ./website/
+	cp neuropath.css     ./website/
+	cp w3mobile.css      ./website/
+	cp neuropath.png     ./website/
+	cp logo_uzh_blue.png ./website/
 done
