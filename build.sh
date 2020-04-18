@@ -17,4 +17,7 @@ do
 	cp logo_uzh_blue.png ./website/
 	cp background.png    ./website/
 	cp favicon.ico       ./website/
+	cp MichaelHengartner.jpg    ./website/
+	cp BeatriceBeckSchimmer.jpg ./website/
+	cp AdrianoAguzzi.jpg         ./website/
 done
