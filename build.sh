@@ -16,4 +16,5 @@ do
 	cp w3mobile.css      ./website/
 	cp logo_uzh_blue.png ./website/
 	cp background.png    ./website/
+	cp favicon.ico       ./website/
 done
