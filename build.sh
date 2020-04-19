@@ -20,4 +20,5 @@ do
 	cp MichaelHengartner.jpg    ./website/
 	cp BeatriceBeckSchimmer.jpg ./website/
 	cp AdrianoAguzzi.jpg         ./website/
+	cp laser.png       ./website/
 done
