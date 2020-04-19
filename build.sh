@@ -21,4 +21,5 @@ do
 	cp BeatriceBeckSchimmer.jpg ./website/
 	cp AdrianoAguzzi.jpg         ./website/
 	cp laser.png       ./website/
+	cp protein.png     ./website/
 done
