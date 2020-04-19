@@ -1,25 +1,35 @@
 #!/usr/bin/bash
 
 
-for PAGE in index stiftungszweck spenden stiftungsrat kontakt
+rm -fR ./website/
+for LANG in de en
 do
-	echo $PAGE
-	TARGET=$PAGE".html"
-	echo "TARGE:$TARGET"
-	SOURCE="${PAGE}_source.html"
-	echo "SOURCE;$SOURCE"
+    TARGETDIR=./website/${LANG}/
+    mkdir -p ${TARGETDIR}
+	for PAGE in index stiftungszweck spenden stiftungsrat kontakt
+	do
+		echo $PAGE
+		TARGET=$PAGE".html"
+		echo "TARGE:$TARGET"
+		SOURCE="${PAGE}_source.html"
+		echo "SOURCE;$SOURCE"
 
-	cat top.html    >  ./website/${TARGET}
-	cat ${SOURCE}   >> ./website/${TARGET}
-        cat bottom.html >> ./website/${TARGET}
-	cp neuropath.css     ./website/
-	cp w3mobile.css      ./website/
-	cp logo_uzh_blue.png ./website/
-	cp background.png    ./website/
-	cp favicon.ico       ./website/
-	cp MichaelHengartner.jpg    ./website/
-	cp BeatriceBeckSchimmer.jpg ./website/
-	cp AdrianoAguzzi.jpg         ./website/
-	cp laser.png       ./website/
-	cp protein.png     ./website/
+		cat top.html    >  			${TARGETDIR}/${TARGET}
+		cat ${SOURCE}   >> 			${TARGETDIR}/${TARGET}
+        cat bottom.html >> 			${TARGETDIR}/${TARGET}
+		cp neuropath.css   			${TARGETDIR}
+		cp w3mobile.css    			${TARGETDIR}
+		cp logo_uzh_blue.png 		${TARGETDIR}
+		cp background.png    		${TARGETDIR}
+		cp favicon.ico       		${TARGETDIR}
+		cp MichaelHengartner.jpg    ${TARGETDIR}
+		cp BeatriceBeckSchimmer.jpg ${TARGETDIR}
+		cp AdrianoAguzzi.jpg        ${TARGETDIR}
+		cp laser.png                ${TARGETDIR}
+		cp protein.png              ${TARGETDIR}
+	done
+    
+	#TRANSLATE
+    
+
 done
