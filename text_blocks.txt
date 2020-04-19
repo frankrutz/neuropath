@@ -29,7 +29,7 @@ textblock00006_it
 textblock00006_fr 
 
 textblock00007_de Forschung auf dem Gebiet der Neuropathologie
-textblock00007_en Research in the area of neuropathology
+textblock00007_en Research in the Area of Neuropathology
 textblock00007_it 
 textblock00007_fr 
 
@@ -223,7 +223,7 @@ textblock50001_en Contact
 textblock50001_it
 textblock50001_fr
 
-textblock50001_de Bitte wenden sie sich für alle Fragen an Frau Jacqueline Wiedler.
-textblock50001_en Please address any questions you may have to Ms. Jacqueline Wiedler 
-textblock50001_it
-textblock50001_fr
+textblock50002_de Bitte wenden sie sich für alle Fragen an Frau Jacqueline Wiedler.
+textblock50002_en Please address any questions you may have to Ms. Jacqueline Wiedler 
+textblock50002_it
+textblock50002_fr

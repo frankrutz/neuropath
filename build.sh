@@ -2,6 +2,10 @@
 
 
 rm -fR ./website/
+mkdir -p ./website/
+cp index.html ./website/
+
+
 for LANG in de en
 do
     TARGETDIR=./website/${LANG}/
@@ -30,6 +34,17 @@ do
 	done
     
 	#TRANSLATE
+    grep textblock.*_${LANG}  text_blocks.txt > ${TARGETDIR}tmplist_${LANG}.txt
+    cd ${TARGETDIR}
     
+   while read line; do
+	  set -- $line;
+	  TEXTBLOCK=${1:0:14}
+	  TEXT=${line:18}
+	  #echo "::${TEXTBLOCK}::${TEXT}::";
+	  sed -i "s|${TEXTBLOCK}|${TEXT}|g" *.html
+   done <tmplist_${LANG}.txt
 
+   rm tmplist_${LANG}.txt
+    cd ../..
 done
