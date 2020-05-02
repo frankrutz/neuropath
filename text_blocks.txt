@@ -38,9 +38,30 @@ textblock00008_en en
 textblock00008_it it
 textblock00008_fr fr
 
+textblock00009_de home 
+textblock00009_en home
+textblock00009_it home
+textblock00009_fr 
 
+textblock00010_de zweck
+textblock00010_en aims
+textblock00010_it scopo 
+textblock00010_fr 
 
+textblock00011_de spenden
+textblock00011_en donations
+textblock00011_it donazioni
+textblock00011_fr 
 
+textblock00012_de stiftungsrat
+textblock00012_en board
+textblock00012_it consiglio
+textblock00012_fr 
+
+textblock00013_de kontakt
+textblock00013_en contact
+textblock00013_it contatto
+textblock00013_fr 
 
 textblock10001_de Die Stiftung Neuropath ist eine gemeinnützige Stiftung zur Förderung der Forschung auf dem Gebiet der Neuropathologie, die unter anderem die folgenden Krankheiten erforscht:
 textblock10001_en The Foundation of Neuropath is a non-profit foundation for the advancement of research within the field of Neuropathology, which explores various neurological diseases, among which include:
