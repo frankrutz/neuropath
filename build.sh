@@ -31,6 +31,8 @@ do
 		cp AdrianoAguzzi.jpg        ${TARGETDIR}
 		cp laser.png                ${TARGETDIR}
 		cp protein.png              ${TARGETDIR}
+		cp donate_background.png    ${TARGETDIR}
+		cp contact.png              ${TARGETDIR}
 
        #make sure reference is to correct PAGE
 	   sed -i "s|REPLACE_ME_WITH_PAGE_IN_BUILD|${PAGE}|g" ${TARGETDIR}*.html
