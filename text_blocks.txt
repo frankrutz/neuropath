@@ -223,7 +223,7 @@ textblock40010_fr Decider les priorités d'affectation des ressources de la fond
 textblock40011_de Erlass einer Richtlinie über die Vermögensverwaltung und Delegation der Vermögensverwaltung an ein bestqualifiziertes Unternehmen
 textblock40011_en Formulate a directive on asset management and the delegation of assets to the best-qualified company
 textblock40011_it Emana direttive sull'amministrazione patrimoniale e delega l'amministrazione patrimoniale a un ente maggiormente qualificato
-textblock40011_fr Rédiger d'une directive sur la gestion des actifs et la délégation de cette gestion des actifs à une entreprise hautement qualifiée
+textblock40011_fr Rédiger la directive sur la gestion des actifs et la délégation de cette gestion des actifs à une entreprise hautement qualifiée
 
 textblock40012_de Genehmigung der Jahresrechnung und des Jahresberichtes
 textblock40012_en Approval of the annual accounts and annual report
