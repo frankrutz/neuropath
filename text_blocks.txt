@@ -56,7 +56,7 @@ textblock00011_fr donations
 textblock00012_de stiftungsrat
 textblock00012_en board
 textblock00012_it consiglio
-textblock00012_fr conseil de fondation
+textblock00012_fr conseil
 
 textblock00013_de kontakt
 textblock00013_en contact
