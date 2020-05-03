@@ -6,7 +6,7 @@ mkdir -p ./website/
 cp index.html ./website/
 
 
-for LANG in de en it
+for LANG in de en it fr
 do
     TARGETDIR=./website/${LANG}/
     mkdir -p ${TARGETDIR}

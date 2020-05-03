@@ -1,37 +1,37 @@
 textblock00001_de menu 
 textblock00001_en menu
 textblock00001_it menu
-textblock00001_fr 
+textblock00001_fr menu
 
 textblock00002_de Home
 textblock00002_en Home
 textblock00002_it Home
-textblock00002_fr
+textblock00002_fr Home
 
 textblock00003_de Stiftungszweck
 textblock00003_en Foundation's Aims
 textblock00003_it Scopo della fondazione
-textblock00003_fr 
+textblock00003_fr But de la fondation
 
 textblock00004_de Spenden + Legate
 textblock00004_en Donations + Bequests
 textblock00004_it Donazioni + legati
-textblock00004_fr 
+textblock00004_fr Donations + Lègues
 
 textblock00005_de Stiftungsrat
 textblock00005_en Board Members
 textblock00005_it Consiglio di fondazione
-textblock00005_fr 
+textblock00005_fr Membres du Conseil de Fondation
 
 textblock00006_de Kontakt
 textblock00006_en Contact
 textblock00006_it Contatto
-textblock00006_fr 
+textblock00006_fr Contact
 
 textblock00007_de Forschung auf dem Gebiet der Neuropathologie
 textblock00007_en Research in the Area of Neuropathology
 textblock00007_it Ricerca nel campo della neuropatologia
-textblock00007_fr 
+textblock00007_fr Recherche dans le domaine de la Neuropathie
 
 textblock00008_de de 
 textblock00008_en en
@@ -41,62 +41,62 @@ textblock00008_fr fr
 textblock00009_de home 
 textblock00009_en home
 textblock00009_it home
-textblock00009_fr 
+textblock00009_fr home
 
 textblock00010_de zweck
 textblock00010_en aims
 textblock00010_it scopo 
-textblock00010_fr 
+textblock00010_fr but
 
 textblock00011_de spenden
 textblock00011_en donations
 textblock00011_it donazioni
-textblock00011_fr 
+textblock00011_fr donations
 
 textblock00012_de stiftungsrat
 textblock00012_en board
 textblock00012_it consiglio
-textblock00012_fr 
+textblock00012_fr conseil de fondation
 
 textblock00013_de kontakt
 textblock00013_en contact
 textblock00013_it contatto
-textblock00013_fr 
+textblock00013_fr contact
 
 textblock10001_de Die Stiftung Neuropath ist eine gemeinnützige Stiftung zur Förderung der Forschung auf dem Gebiet der Neuropathologie, die unter anderem die folgenden Krankheiten erforscht:
 textblock10001_en The Foundation of Neuropath is a non-profit foundation for the advancement of research within the field of Neuropathology, which explores various neurological diseases, among which include:
 textblock10001_it La fondazione di neuropatalogia è una fondazione senza scopo di lucro per promuovere la ricerca nel campo della neuropatologia, che comprende tra l'altro la ricerca per le sequenti malattie:
-textblock10001_fr
+textblock10001_fr La Fondation Neuropath est une fondation à but non lucratif pour la promotion de la recherche dans le domaine de la neuropathologie, qui étudie entre autres les maladies suivantes:
 
 textblock10002_de Creutzfeldt-Jakob
 textblock10002_en Creutzfeldt-Jakob
 textblock10002_it Creutzfeldt-Jakob
-textblock10002_fr
+textblock10002_fr Creutzfeldt-Jakob
 
 textblock10003_de Morbus Alzheimer
 textblock10003_en Alzheimer’s 
 textblock10003_it Morbo di Alzheimer
-textblock10003_fr
+textblock10003_fr Maladie d'Alzheimer
 
 textblock10004_de Parkinson
 textblock10004_en Parkinson’s
 textblock10004_it Parkinson
-textblock10004_fr
+textblock10004_fr Maladie de Parkinson
 
 textblock10005_de Hirntumore
 textblock10005_en Brain tumors 
 textblock10005_it Tumori celebrali
-textblock10005_fr
+textblock10005_fr Tumeurs Cérébrales
 
 textblock10006_de Multiple Sklerose
 textblock10006_en Multiple Sclerosis 
 textblock10006_it Sclerosi multipla
-textblock10006_fr
+textblock10006_fr Sclérose en Plaques
 
 textblock10007_de Gegründet 2006 durch die Universität Zürich und Prof. Dr. Adriano Aguzzi
 textblock10007_en It was founded in 2006 at the University of Zürich by Prof. Dr. Adriano Aguzzi. 
 textblock10007_it Fondata nel 2006 dall'Università di Zurigo e dal Prof. Dr. Adriano Aguzzi
-textblock10007_fr
+textblock10007_fr Fondée en 2006 par l'Université de Zurich et le Prof. Dr. Adriano Aguzzi
 
 
 
@@ -105,47 +105,47 @@ textblock10007_fr
 textblock20001_de Die Stiftung verfolgt den Zweck, die neuropathologische Forschung an der Universität Zürich zu unterstützen. Die Unterstützung umfasst Forschung und Ausbildung vor allem mittels Finanzierung folgender Tätigkeiten und Sachwerte:
 textblock20001_en The purpose of the foundation is to support neuropathological research at the University of Zurich. This support is provided through means of research and education, which is achievable due to the financing of the following activities and essential research components:
 textblock20001_it La fondazione ha lo scopo di sostenere la ricerca neuropatologica all'Università di Zurigo. Il supporto comprende la ricerca e la formazione specialmente finanziando le componenti essenziali per la ricerca e le seguenti attività:
-textblock20001_fr
+textblock20001_fr L'objectif de la fondation est de soutenir la recherche neuropathologique à l'Université de Zurich. Le soutien comprend la recherche et la formation, principalement en finançant les activitées et les activitées suivantes:
 
 textblock20002_de Stipendien für Diplomanden, Doktoranden, Postdoktoranden und Habilitanden
 textblock20002_en Scholarships for bachelor/master students, doctoral candidates, as well as postdocs and post-doctoral students
 textblock20002_it Borse di studio per laureandi, dottorandi, post-dottorandi e abilitazione all'insegnamento accademico
-textblock20002_fr
+textblock20002_fr Bourses d'études pour étudiants, doctorants, post-doctorants et candidats à l'habilitation
 
 textblock20003_de Material von bleibendem Wert, wie z.Bsp. Geräte
 textblock20003_en Acquisition of equipment to support research
 textblock20003_it Acquisto di apparecchi per la ricerca
-textblock20003_fr
+textblock20003_fr Acquisition de matériels et équipements durables de recherche 
 
 textblock20004_de Verbrauchsmaterialien
 textblock20004_en Consumables for research
 textblock20004_it Materiali di consumo
-textblock20004_fr
+textblock20004_fr Consommables
 
 textblock20005_de Publikationskosten
 textblock20005_en Publication costs
 textblock20005_it Costi di pubblicazioni
-textblock20005_fr
+textblock20005_fr Coûts de publication
 
 textblock20006_de Forschungsaufenthalte des Personals des Instituts für Neuropathologie an auswärtigen Instituten
 textblock20006_en Research stays of the staff of the Institute of Neuropathology at external institutes
 textblock20006_it Soggiorni di ricerca per il personale dell'istituto di neuropatologia presso istituti esterni
-textblock20006_fr
+textblock20006_fr Séjours de recherche du personnel de l'Institut de Neuropathologie dans des instituts étrangers
 
 textblock20007_de Forschungsaufenthalte auswärtiger Wissenschafter am Institut für Neuropathologie der Universität Zürich
 textblock20007_en Research stays of foreign scientists at the Institute for Neuropathology of the University of Zurich
 textblock20007_it Soggiorni di ricerca per scienziati esterni presso l'istituto di neuropatologia dell'Università di Zurigo
-textblock20007_fr
+textblock20007_fr Séjours de recherche de scientifiques étrangers à l'Institut de neuropathologie de l'Université de Zurich
 
 textblock20008_de Veranstaltung und Teilnahme an wissenschaftlichen Tagungen
 textblock20008_en Organization and participation in scientific conferences
 textblock20008_it Organizzazione e partecipazione a conferenze scientifiche
-textblock20008_fr
+textblock20008_fr Organisation et participation à des conférences scientifiques
 
 textblock20009_de Klausuren ('retreats') des Instituts für Neuropathologie
 textblock20009_en Scientific retreats of the staff at the Institute of Neuropathology
 textblock20009_it Riunioni a porte chiuse ('retreats') dell'istituto di neuropatologia 
-textblock20009_fr
+textblock20009_fr 'Retraites Scientifiques' du personnel de l'Institut de Neuropathologie
 
 
 
@@ -154,17 +154,17 @@ textblock20009_fr
 textblock30001_de Die gemeinnützige Stiftung Neuropath nimmt auch Ihre Spende entgegen. Die Spenden werden getreu dem Stiftungszweck verwendet. Spenden an die Stiftung Neuropath können von der Einkommenssteuer abgezogen werden. Gerne stellen wir Ihnen eine Spendenbescheinigung aus. Auf Wunsch werden Spenden auf dieser Webseite verdankt.
 textblock30001_en The non-profit foundation Neuropath also graciously accepts donations. Donations will be used in accordance with the foundation's aims and statutes. Please note that all donations to the Neuropath Foundation can be deducted from your income tax and we would be happy to provide you with a donation receipt. With your permission, we shall be happy to gratefully acknowledge your donation on our website as a way for us to thank you and recognize your contribution.
 textblock30001_it La fondazione senza scopo di lucro Neuropath ringrazia per una vostra eventuale donazione. Le donazioni vengono strettamente utililizzate secondo gli statuti della fondazione. Le donazioni alla fondazione Neuropath possono essere dedotte dalle imposte sul reddito. Rilasciamo volentieri un certificato di donazione. Su richiesta pubblichiamo la vostra donazione su questa pagina web. 
-textblock30001_fr
+textblock30001_fr La fondation sans but lucratif Neuropath accepte également vos dons. Les dons sont utilisés selon le but de la fondation. Les dons à la Fondation Neuropath peuvent être déduits des impôts sur le revenu. Nous serions heureux de vous délivrer un reçu de don. Des dons peuvent aussi être effectués sur le compte suivant.
 
 textblock30002_de Spendenkonto:
 textblock30002_en Donations Account:
 textblock30002_it Conto per le donazioni
-textblock30002_fr
+textblock30002_fr Compte pour dons
 
 textblock30003_de Postkonto
 textblock30003_en Post Account
 textblock30003_it Conto postale
-textblock30003_fr
+textblock30003_fr Compte Postal
 
 
 
@@ -173,72 +173,72 @@ textblock30003_fr
 textblock40001_de Stiftungsrat
 textblock40001_en The Foundation’s Board Members
 textblock40001_it Consiglio di fondazione
-textblock40001_fr
+textblock40001_fr Conseil de Fondation
 
 textblock40002_de Der Stiftungsrat besteht aus drei Mitgliedern:
 textblock40002_en The foundation’s board consists of three members:
 textblock40002_it Il Consiglio di fondazione comprende tre membri:
-textblock40002_fr
+textblock40002_fr Le Conseil de Fondation est composé de trois membres:
 
 textblock40003_de Rektor der Universität Zürich
 textblock40003_en Director of the University of Zurich
 textblock40003_it Direttore dell'Università di Zurigo
-textblock40003_fr
+textblock40003_fr Directeur de l'Université de Zürich
 
 textblock40004_de Präsident des ETH-Rats
 textblock40004_en President of the ETH board
 textblock40004_it Presidente del Consiglio del Politecnico Federale (ETH)
-textblock40004_fr
+textblock40004_fr Président du conseil  de l'Ecole Polytechnique Fédérale (ETH)
 
 textblock40005_de Direktorin Universitäre Medizin Zürich
 textblock40005_en Director of University Medicine Zurich
 textblock40005_it Direttrice della Facoltà Universitaria di Medicina di Zurigo
-textblock40005_fr
+textblock40005_fr Directrice de la Médecine Universitaire de Zürich
 
 textblock40006_de Universitätsspital Zürich
 textblock40006_en University Hospital Zurich
 textblock40006_it Ospedale Universitario di Zurigo
-textblock40006_fr
+textblock40006_fr Hôpital Universitaire de Zürich
 
 textblock40007_de Direktor des Instituts für Neuropathologie
 textblock40007_en Director of the Institute of Neuropathology
 textblock40007_it Direttore dell'Istituto di Neuropatologia
-textblock40007_fr
+textblock40007_fr Directeur de l'Institut de Neuropathologie
 
 textblock40008_de Universitätsspital Zürich
 textblock40008_en University Hospital Zurich
 textblock40008_it Ospedale Universitario di Zurigo
-textblock40008_fr
+textblock40008_fr Hôpital Universitaire de Zürich
 
 textblock40009_de Der Stiftungsrat hat folgende Aufgaben:
 textblock40009_en The Board Members have the following responsibilities:
 textblock40009_it Il Consiglio di fondazione adempie ai seguenti compiti:
-textblock40009_fr
+textblock40009_fr Les membres du Conseil de Fondation ont les responsabilités suivantes:
 
 textblock40010_de Entscheidung darüber, für welche Aufgabe und in welcher Höhe Stiftungsgelder ausgeschüttet werden
 textblock40010_en Determination of the priority of tasks and the distribution of foundation funds to associated tasks 
 textblock40010_it Determina le priorità della ricerca e in quale misura vengono ripartiti i fondi della fondazione
-textblock40010_fr
+textblock40010_fr Decider les priorités d'affectation des ressources de la fondation (tâches, montants)
 
 textblock40011_de Erlass einer Richtlinie über die Vermögensverwaltung und Delegation der Vermögensverwaltung an ein bestqualifiziertes Unternehmen
 textblock40011_en Formulate a directive on asset management and the delegation of assets to the best-qualified company
 textblock40011_it Emana direttive sull'amministrazione patrimoniale e delega l'amministrazione patrimoniale a un ente maggiormente qualificato
-textblock40011_fr 
+textblock40011_fr Rédiger d'une directive sur la gestion des actifs et la délégation de cette gestion des actifs à une entreprise hautement qualifiée
 
 textblock40012_de Genehmigung der Jahresrechnung und des Jahresberichtes
 textblock40012_en Approval of the annual accounts and annual report
 textblock40012_it Approva il bilancio e il rapporto annuale
-textblock40012_fr 
+textblock40012_fr Approbation des comptes et du rapport annuels
 
 textblock40013_de Erlass eines Stiftungsreglements
 textblock40013_en Adoption of foundation regulations
 textblock40013_it Emana il regolamento della fondazione 
-textblock40013_fr 
+textblock40013_fr Décréter la réglementation de la fondation
 
 textblock40014_de Die Stiftung untersteht der zuständigen Aufsichtsbehörde des Kantons Zürich.
 textblock40014_en The Foundation is subject to the authority and supervision of the Canton of Zurich.
 textblock40014_it La fondazione sottostà all'autorità di vigilanza del Cantone di Zurigo
-textblock40014_fr 
+textblock40014_fr La fondation est subordonnée à l'autorité de surveillance compétente du canton de Zurich.
 
 
 
@@ -247,11 +247,9 @@ textblock40014_fr
 textblock50001_de Kontakt
 textblock50001_en Contact
 textblock50001_it Contatto
-textblock50001_fr
+textblock50001_fr Contact
 
 textblock50002_de Bitte wenden sie sich für alle Fragen an Frau Jacqueline Wiedler.
 textblock50002_en Please address any questions you may have to Ms. Jacqueline Wiedler 
 textblock50002_it Per ulteriori domande si prega di rivolgersi alla signora Jacqueline Wiedler.
-textblock50002_fr
-neuropatologia.txt
-Displaying neuropatologia.txt. 
+textblock50002_fr Veuillez contacter Mme Jacqueline Wiedler pour toute question.
