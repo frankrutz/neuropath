@@ -17,7 +17,16 @@ Waiting for French translation https://github.com/frankrutz/neuropath/issues/8
 
 # how to clone
 
+mkdir mygitdir
+
+cd mygitdir
+
 git clone https://github.com/frankrutz/neuropath
+
+cd neuropath
+
+./build.sh
+
 
 
 # technical description
