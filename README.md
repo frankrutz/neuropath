@@ -15,7 +15,10 @@ Testing
 Waiting for French translation https://github.com/frankrutz/neuropath/issues/8
 
 
-# how to clone
+# how to clone and build
+
+What you need: Linux system with bash and git. Git bash on Windows is also ok.
+
 
 mkdir mygitdir
 
