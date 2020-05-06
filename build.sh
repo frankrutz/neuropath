@@ -23,7 +23,6 @@ do
         cat bottom.html >> 			${TARGETDIR}/${TARGET}
 		cp neuropath.css   			${TARGETDIR}
 		cp w3mobile.css    			${TARGETDIR}
-		cp logo_uzh_blue.png 		${TARGETDIR}
 		cp background.png    		${TARGETDIR}
 		cp favicon.ico       		${TARGETDIR}
 		cp MichaelHengartner.jpg    ${TARGETDIR}
