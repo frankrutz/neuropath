@@ -4,15 +4,13 @@ Modernization of https://www.stiftung-neuropath.ch/
 
 Preview at https://www.stiftung-neuropath.ch/preview/
 
-Status: prerelease-Version 0.9 ready for testing including multilanguage
+Status: Version 1.0 Go-Life on Thursday 7th May 2020
+
+
 
 # next steps
 
-Planned go-live: 3rd May 2020
-
-Testing
-
-Waiting for French translation https://github.com/frankrutz/neuropath/issues/8
+Waiting for bugfixes
 
 
 # how to clone and build
