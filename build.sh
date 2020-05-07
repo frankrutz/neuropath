@@ -4,6 +4,15 @@
 rm -fR ./website/
 mkdir -p ./website/
 cp index.html ./website/
+#The following copies are for the old websites. 
+#Somebody might have references to the old pages, w
+#we do not want to give them a page not found errror.
+cp index.html ./website/index.htm
+cp index.html ./website/kontakt.htm
+cp index.html ./website/stiftungszweck.htm
+cp index.html ./website/spenden.htm
+cp index.html ./website/stiftungsrat.htm
+
 
 
 for LANG in de en it fr
